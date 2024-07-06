@@ -1,2 +1,1 @@
-alpine
-louislam/dockge:1
+badapple9/speedtest-x
